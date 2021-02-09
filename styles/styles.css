@@ -15,8 +15,8 @@
 
 .banner {
     border: 1px solid black;
-    height: 100%;
-    width: 100%;
+    display: grid;
+    grid: ;
 }
 
 .logo {
@@ -26,3 +26,15 @@
     width: 30%;
     height: 20%;
 }
+
+
+/* TODO:make a grid for banner with one row and four colums */
+
+
+/* the first column will contain logo  */
+
+
+/* second column will contain text  */
+
+
+/* third will contain image  */
